@@ -2,6 +2,7 @@
 //add selected
 //if two cards have selected - see if they are a match
 //if they are a match add match class and remove select, so you can keep selecting
+//Please check Tembisa's comments
 
 var tempArray = ['red','skyBlue','limegreen','darkorange', 'yellow','darkmagenta','limegreen','indigo','turquoise', 'plum', 'pink', 'red','skyBlue', 'plum', 'pink', 'yellow', 'darkorange','darkmagenta','indigo','turquoise']
 
